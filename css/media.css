@@ -1,0 +1,48 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+
+
+    .getstarted{
+        display: none;
+    }
+    .navlinks{
+        display: none;
+    }
+   
+
+    .header2{
+      border: solid black;
+      width: 80vw;
+      margin: 10px 40px;
+      justify-items: center;
+  }
+  .header2 h1{
+      font-size: 30px;
+  }
+  .header2 p{
+      margin: 10px 15%;
+  }
+  .sub{
+      display: block;
+      margin: 10px 20%;
+      justify-content: space-between;
+  }
+  .sub button{
+   width: 50vw;
+   height: 30px;
+   background-color: #C9DBB2;
+}
+#input{
+  width: 50vw;
+  height:30px;
+}
+
+
+
+
+
+
+
+  }
